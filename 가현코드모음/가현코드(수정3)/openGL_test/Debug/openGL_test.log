@@ -1,0 +1,8 @@
+﻿빌드 시작: 2017-05-26 오후 1:20:52
+     1>2 노드의 "E:\Users\SD\Desktop\대학\4학년\1학기\캡스톤\가현코드(수정3)\openGL_test\openGL_test.vcxproj" 프로젝트(Build 대상)입니다.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.Cpp.Platform.targets(57,5): error MSB8020: The build tools for v141 (Platform Toolset = 'v141') cannot be found. To build using the v141 build tools, please install v141 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution".
+     1>"E:\Users\SD\Desktop\대학\4학년\1학기\캡스톤\가현코드(수정3)\openGL_test\openGL_test.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00
